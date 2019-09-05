@@ -1,0 +1,1 @@
+ES6 19.4 Exercises -> all results to be seen in index.html console
